@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font: 15px arial, sans-serif;
+}
+.header {
+	color: blue;
+	font-style: italic;
+}
+img {
+	padding-bottom: 5px;
+}	
+
