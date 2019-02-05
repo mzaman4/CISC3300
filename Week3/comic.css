@@ -1,0 +1,17 @@
+body{
+	background-color: orange;
+}
+p{
+	font-size: 25px;
+}
+
+.left{
+	padding-right: 10px;
+}
+.right{
+	padding-left: 10px;
+}
+h1{
+	font-style: italic;
+}
+
