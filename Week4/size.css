@@ -1,0 +1,9 @@
+      html {
+        font-family: sans-serif;
+        background-color: lightblue;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+      }
